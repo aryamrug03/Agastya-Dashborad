@@ -1,1 +1,6 @@
+pandas>=1.5
+numpy
+plotly>=5.0
+openpyxl
+xlrd
 
